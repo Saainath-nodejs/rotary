@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rotary/static/css/main.f855e6bc.css",
+    "main.js": "/rotary/static/js/main.acd1eeb1.js",
+    "static/js/453.d6e38631.chunk.js": "/rotary/static/js/453.d6e38631.chunk.js",
+    "static/media/logo.svg": "/rotary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rotary/index.html",
+    "main.f855e6bc.css.map": "/rotary/static/css/main.f855e6bc.css.map",
+    "main.acd1eeb1.js.map": "/rotary/static/js/main.acd1eeb1.js.map",
+    "453.d6e38631.chunk.js.map": "/rotary/static/js/453.d6e38631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.acd1eeb1.js"
+  ]
+}
